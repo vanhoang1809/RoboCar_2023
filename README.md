@@ -4,7 +4,7 @@ These are the Repositories to support the students in the RoboCar VKU 2023 conte
  
 ### This is a picture of the connection diagram of a control car using Bluetooth.
 
-![alt text](Robocar_2023.png)
+![alt text](/Fritzing/Robocar_2023.png)
 ## Installation
 You can download the libraries and software included in the project through the following link:
 1. Arduino IDE: https://www.arduino.cc/en/software
