@@ -34,6 +34,6 @@ To build software and hardware for a successful project, you need:
 4. If you want to develop Line Follower Robot (with PID controller), please refer to the following **[video](https://www.youtube.com/watch?v=w3bE3ygJMx8)**.
 ## Contact 
 1. Link Video Demo: **[Please click Here](https://drive.google.com/file/d/12MhrGpOf4OUbh2oLuE-f_nshHSeFesLh/view?usp=sharing)**
-2. If you have any questions about my source code, please contact: 
+2. If you have any questions or Bugs detection about my source code, please contact: 
 > * Phone: 0352571646
 > * Email: vvhoang18092001@gmail.com
