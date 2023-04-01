@@ -28,7 +28,7 @@ The image below describes the functions you can perform on the App to control th
 ## Usage
 To build software and hardware for a successful project, you need:
 1. Research documents, datasheet of modules: 
-> * Link overview of components in Vietnamese: **[DC-DC Buck Converter LM2596](https://nshopvn.com/product/mach-giam-ap-dc-lm2596-3a/)**, **[L298N Motor Driver](https://nshopvn.com/product/mach-dieu-khien-dong-co-dc-l298n/)**, **[Servo SG90](https://nshopvn.com/product/dong-co-servo-sg90-tower-pro//)**, **[HC-05 Bluetooth](https://nshopvn.com/product/module-thu-phat-bluetooth-hc-05/)**, and **[Arduino nano](https://nshopvn.com/product/arduino-nano-v3-0-atmega328p-khong-kem-day-cap-usb/)**, ....
+> * Link overview of components in Vietnamese: **[DC-DC Buck Converter LM2596](https://nshopvn.com/product/mach-giam-ap-dc-lm2596-3a/)**, **[L298N Motor Driver](https://nshopvn.com/product/mach-dieu-khien-dong-co-dc-l298n/)**, **[Servo SG90](https://nshopvn.com/product/dong-co-servo-sg90-tower-pro/)**, **[HC-05 Bluetooth](https://nshopvn.com/product/module-thu-phat-bluetooth-hc-05/)**, and **[Arduino nano](https://nshopvn.com/product/arduino-nano-v3-0-atmega328p-khong-kem-day-cap-usb/)**, ....
 2. Research how to use the Arduino IDE, Fritzing. Arduino Programming [Documentation](https://www.arduino.cc/reference/en/).
 3. You can refer to the source code in /src/.
 4. If you want to develop Line Follower Robot (with PID controller), please refer to the following **[video](https://www.youtube.com/watch?v=w3bE3ygJMx8)**.
